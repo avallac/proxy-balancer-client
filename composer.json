@@ -1,0 +1,18 @@
+{
+  "name": "avallac/proxy-balancer-client",
+  "license": "MIT",
+  "type": "library",
+  "homepage": "https://github.com/avallac/proxy-balancer-client",
+  "require": {
+    "nategood/httpful": "^0.2.20"
+  },
+  "autoload": {
+    "psr-4": { "AVAllAC\\ProxyBalancerClient\\": "src/" }
+  },
+  "authors": [
+    {
+      "name": "Petr Petrenko",
+      "role": "maintainer"
+    }
+  ]
+}
